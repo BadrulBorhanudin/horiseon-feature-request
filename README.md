@@ -34,4 +34,10 @@ THEN I find a concise, descriptive title
 ## Mock-Up
 
 The following images shows the web application's appearance and functionality:
+
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/01-html-css-git-homework-demo.png)
+
+## Notes
+
+* [Click here for the URL of the deployed application.](bad6789.github.io/01-module-challenge)
+* [Click here fo the URL of the GitHub repository, with a unique name and a README that describes this project.](https://github.com/bad6789/01-module-challenge.git)
